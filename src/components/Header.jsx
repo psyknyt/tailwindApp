@@ -4,7 +4,7 @@ import "../index.css";
 const Header = () => {
   return (
     <React.Fragment>
-      <nav className="flex flex-row font-mono mt-2 m-5 fixed top-0 w-full bg-secondary-800 overflow-hidden rounded text-white">
+      <nav className="flex flex-row font-mono mt-2 m-5 cursor-pointer fixed top-0 w-full bg-secondary-800 overflow-hidden rounded text-white">
         <div className=" flex items-center font-bold  p-2 rounded m-2">
           <span className="italic sm:not-italic text-blue hover:font-bold">
             psynyt
