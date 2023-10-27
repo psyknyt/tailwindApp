@@ -13,7 +13,6 @@ function App() {
 
   return (
     <div>
-        {/* <img src={}/> */}
         <Header />    
         <About/>
     </div>
