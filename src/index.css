@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-white{
+  color:white;
+}
+
+.text-gray{
+  color:gray;
+}
+.text-blue{
+  color:rgb(99, 58, 223);
+}
