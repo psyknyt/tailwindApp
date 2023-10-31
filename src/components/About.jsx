@@ -16,7 +16,10 @@ const About = () => {
 
   return (
     <React.Fragment>
-      <div className="grid grid-cols-1 gap-4 px-4 py-20" style={divStyle}>
+      <div
+        className="bg-scroll grid grid-cols-1 gap-4 px-4 py-20"
+        style={divStyle}
+      >
         <div className="">
           <img src={saurav} alt="" className="my-5 rounded-full mx-auto" />
         </div>
